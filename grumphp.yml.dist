@@ -3,10 +3,6 @@ imports:
 
 parameters:
   extra_tasks:
-    psalm:
-      show_info: true
-      debug_by_line: true
-      debug: true
     phpspec:
       verbose: true
     infection:
